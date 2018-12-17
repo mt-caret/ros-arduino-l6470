@@ -1,0 +1,3 @@
+[submodule "lib/arduino-l6470-driver"]
+	path = lib/arduino-l6470-driver
+	url = https://github.com/mt-caret/arduino-l6470-driver
